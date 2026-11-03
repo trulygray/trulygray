@@ -1,1 +1,7 @@
 Hello, I’m Grayson, a Computer Science student here at Oregon State University. I'm interested in pursuing computer engineering and machine learning. Before starting this program, I interned at Siemens EDA, where I gained hands-on experience with Linux, virtual machines, Bash, and Introductory Python. From a very young age, I've been around video games and coding because of my family background, and those experiences pushed me to pursue this endeavor. These experiences sparked my interest in how programming and data can solve technical problems. I hope to continue developing and polishing my skills in data science and machine learning as I work toward a career in computer engineering. 
+
+## Skills I'm Currently Developing
+
+- Python programming: Practicing writing and debugging programs.
+- Data analysis: Learning how to interpret data and draw conclusions
+- Git and GitHub: Building confidence with updating repositories and committing changes.
