@@ -3,5 +3,5 @@ Hello, I’m Grayson, a Computer Science student here at Oregon State University
 ## Skills I'm Currently Developing
 
 - Python programming: Practicing writing and debugging programs.
-- Data analysis: Learning how to interpret data and draw conclusions
+- Data analysis: Learning how to interpret data and draw conclusions.
 - Git and GitHub: Building confidence with updating repositories and committing changes.
